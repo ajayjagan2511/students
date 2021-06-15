@@ -1,0 +1,4 @@
+org\gm\StudentRepository.class
+org\gm\StudentResource.class
+org\gm\Student.class
+META-INF\panache-archive.marker
